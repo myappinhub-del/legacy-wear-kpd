@@ -1,0 +1,6 @@
+{
+  "name": "Legacy Wear | Premium Clothing Brand",
+  "description": "Premium e-commerce platform for Legacy Wear featuring real-time inventory management, UPI payments, WhatsApp order dispatch, and customized site themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
